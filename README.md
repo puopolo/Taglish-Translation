@@ -6,7 +6,7 @@ This repository contains code, prompts, and test data for the thesis project on 
 
 ## 📂 Repository Structure
 
-- `test-tweets-english.csv` – Test datasets
+- `data/` – Test dataset
 - `prompts/` – Prompt templates for few-shot and zero-shot configurations
 - `notebooks/`
   - `sea_lion_inference.ipynb` – Runs inference on Sea Lion v3 9B IT (base model)
