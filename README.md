@@ -60,7 +60,7 @@ This project uses the **Sea Lion v3 9B IT** model as the base.
 
 OR
 
-- Download or use the fine-tuned model directly from Hugging Face.[https://huggingface.co/charlottepuopolo/sealion-3v-9b-it-taglish]
+- Download or use the fine-tuned model directly from Hugging Face. https://huggingface.co/charlottepuopolo/sealion-3v-9b-it-taglish 
 
 ---
 
