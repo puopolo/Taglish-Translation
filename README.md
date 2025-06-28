@@ -19,14 +19,6 @@ This repository contains code, prompts, and test data for the thesis project on 
 
 This project is designed for **Google Colab** using files stored in **Google Drive**.
 
-### Dependencies
-
-Install required Python packages (only needed if running outside Colab):
-
-```bash
-pip install -r requirements.txt
-```
-
 ---
 
 ## 📊 Data Sources
@@ -60,7 +52,7 @@ This project uses the **Sea Lion v3 9B IT** model as the base.
 
 OR
 
-- Download or use the fine-tuned model directly from Hugging Face. https://huggingface.co/charlottepuopolo/sealion-3v-9b-it-taglish 
+- Download or use the fine-tuned model directly from Hugging Face API. https://huggingface.co/charlottepuopolo/sealion-3v-9b-it-taglish 
 
 ---
 
