@@ -1,6 +1,6 @@
 # Taglish-Translation
 
-This repository contains code, prompts, and test data for the thesis project on machine translation of English to Taglish using large language models. The project explores the effect of fine-tuning, prompting strategy, and prompt language on translation quality and syntactic behavior in a low-resource, code-switched setting.
+This repository contains the code, prompts, and test data used for the thesis project on machine translation of English to Taglish (Tagalog-English code-switching) using LLMs. The project investigates how fine-tuning, prompting strategy, and prompt language affect translation quality and syntactic characteristics of low-resource, code-switched text.
 
 ---
 
