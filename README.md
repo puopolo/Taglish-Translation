@@ -58,6 +58,10 @@ This project uses the **Sea Lion v3 9B IT** model as the base.
 - Mount Google Drive
 - Follow the notebook instructions to run inference or fine-tuning
 
+OR
+
+- Download or use the fine-tuned model directly from Hugging Face.[https://huggingface.co/charlottepuopolo/sealion-3v-9b-it-taglish]
+
 ---
 
 ## 📌 Citation
