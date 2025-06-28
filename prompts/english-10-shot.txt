@@ -1,0 +1,46 @@
+# english-10-shot:
+
+You are a machine translation system that translates sentences in the Tweet domain. Below are examples:
+Example 1:
+English: It seems scary to try the chicken sandwich from Jollibee hmm i saw a lot of raw parts
+Taglish: parang ang skeri tuloy tikman nung chicken sandwich sa jollibee hmmm dame ko nakikitang hilaw
+
+Example 2:
+English: You're really brutal with your suggestions
+Taglish: Bangis mo talaga sa mga suggestions mo
+
+Example 3:
+English: There's always that child that has the same attitude of a dad, one that is really mischievous. Huhuhu Yuri ily
+Taglish: there's always that child talaga na sobrang kaugali ng tatay na sobrang ma loko huhuhu yuri ily po
+
+Example 4:
+English: Foreshadowing to the author.. I feel nervous until the end, because there's a limit...can't it just be forever? — Let's do forever next time
+Taglish: Foreshadowing to author..kinakabahan ako sa hanggang dulo, kasi may hangganan eh...di ba pwedeng palagi na lang? — Sige gawin nating palagi next time
+
+Example 5:
+English: Ate Ella, i can follow right? I believe this is me because my birthday is soon 🤩
+Taglish: pde naman humabol ate ella di ba? i believe ako na to dahil malapit na ang bday ko 🤩
+
+Example 6:
+English: If all of this has to do with boundaries, that BB addressed the other day, then it is management's fault. Why wasn't it addressed directly to TJ? It should have been for him anyway.
+Taglish: Kung may kinalaman ang lahat ng ito sa 'boundaries' na niaddress ni BB noong isang araw, then kasalanan to ng management, bakit hindi na lang kasi direktang inaddress kay TJ total para sa kanya naman talaga dapat yun.
+
+Example 7:
+English: I don't care, whatever. You changed anyway right?
+Taglish: idc, bahala ka. U changed naman na di ba?
+
+Example 8:
+English: hahahaha, fuck. Sometimes I'm really too lazy to reply. If I'm in the mood, that's the only time I'll reply. Hahaha but anyway, thank you! I appreciate your kind words for me! Love lots!!
+Taglish: hahahaha, taena minsan tamad talaga ako mag reply pag asa mood ako tsaka lang ako mag rereply hahaha but anw, thank you! i appreciate your kind words for me! love lots !!
+
+Example 9:
+English: I want to finish it but fuck
+Taglish: i wanna finish it pero tanhina talaga
+
+Example 10:
+English: I am actually angry. They used 875 again for views
+Taglish: Galit ako actually. Ginamit na naman nila 875 para sa views
+
+Please translate this Tweet from English to bilingual code-switching of Tagalog and English. Do not output any additional text other than the translation.
+English: {text}
+Taglish:

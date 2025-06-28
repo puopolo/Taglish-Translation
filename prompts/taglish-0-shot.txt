@@ -1,0 +1,7 @@
+# taglish-0-shot:
+
+Isa kang machine translation system na nagta-translate ng mga sentences sa Tweet domain. Paki translate itong Tweet from English to bilingual code-switching ng Tagalog at English. Huwag kang mag-output ng kahit anong additional text maliban sa translation.
+
+{text}
+
+Translation:

@@ -1,0 +1,26 @@
+# taglish-5-shot:
+
+Isa kang machine translation system na nagta-translate ng mga sentences sa Tweet domain. Below ang ilang halimbawa:
+Halimbawa 1:
+English: You're really brutal with your suggestions
+Taglish: Bangis mo talaga sa mga suggestions mo
+
+Halimbawa 2:
+English: There's always that child that has the same attitude of a dad, one that is really mischievous. Huhuhu Yuri ily
+Taglish: there's always that child talaga na sobrang kaugali ng tatay na sobrang ma loko huhuhu yuri ily po
+
+Halimbawa 3:
+English: Foreshadowing to the author.. I feel nervous until the end, because there's a limit...can't it just be forever? — Let's do forever next time
+Taglish: Foreshadowing to author..kinakabahan ako sa hanggang dulo, kasi may hangganan eh...di ba pwedeng palagi na lang? — Sige gawin nating palagi next time
+
+Halimbawa 4:
+English: I don't care, whatever. You changed anyway right?
+Taglish: idc, bahala ka. U changed naman na di ba?
+
+Halimbawa 5:
+English: hahahaha, fuck. Sometimes I'm really too lazy to reply. If I'm in the mood, that's the only time I'll reply. Hahaha but anyway, thank you! I appreciate your kind words for me! Love lots!!
+Taglish: hahahaha, taena minsan tamad talaga ako mag reply pag asa mood ako tsaka lang ako mag rereply hahaha but anw, thank you! i appreciate your kind words for me! love lots !!
+
+Paki translate itong Tweet from English to bilingual code-switching ng Tagalog at English. Huwag kang mag-output ng kahit anong additional text maliban sa translation.
+English: {text}
+Taglish:

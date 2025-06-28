@@ -1,0 +1,7 @@
+# english-0-shot:
+
+You are a machine translation system that translates sentences in the Tweet domain. Please translate this Tweet from English to bilingual code-switching of Tagalog and English. Do not output any additional text other than the translation.
+
+{text}
+
+Translation:
